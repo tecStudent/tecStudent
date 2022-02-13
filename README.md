@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Word, Meu nome é Pedro!
 
 <!--
 **tecStudent/tecStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

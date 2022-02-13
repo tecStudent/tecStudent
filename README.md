@@ -1,5 +1,7 @@
 ### Hello Word, Meu nome é Pedro!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecStudent&layout=compact)](https://github.com/tecStudent/github-readme-stats)
+
 <!--
 **tecStudent/tecStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

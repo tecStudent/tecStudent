@@ -1,6 +1,6 @@
 ### Hello Word, Meu nome é Pedro!
-- 🔭 Atualmente trabalho com tratamento de dados
-- 🌱 E estou estudando sobre desenvolvimento Web
+<!--- 🔭 Atualmente trabalho com tratamento de dados -->
+<!--- 🌱 E estou estudando sobre desenvolvimento Web -->
 
 <div align="center">
   <a href="https://github.com/tecStudent">
